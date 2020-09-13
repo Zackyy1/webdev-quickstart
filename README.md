@@ -2,7 +2,7 @@
 
 ## About
 
-This package is used to start working immediately. TypeScript and Less compilable can be found here *placeholder*
+This package is used to start working immediately. TypeScript and Less compilable can be found here https://github.com/Zackyy1/webdev-quickstart-ts-less
 
 ## How to start
 
