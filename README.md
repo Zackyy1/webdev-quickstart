@@ -6,7 +6,7 @@ This package is used to start working immediately. TypeScript and Less compilabl
 
 ## How to start
 
-`git clone *placeholder* {your-app-name}`
+`git clone https://github.com/Zackyy1/webdev-quickstart.git {your-app-name}`
 
 `cd {your-app-name}`
 
@@ -15,6 +15,4 @@ This package is used to start working immediately. TypeScript and Less compilabl
 
 ## How to use
 
-Start developing right away! This package contains:
-
--jQuery
+Start developing right away! This package contains jQuery and all files are already linked together to start working immediately.
